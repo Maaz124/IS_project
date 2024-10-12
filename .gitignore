@@ -1,0 +1,33 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Django
+*.log
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+
+# Docker
+*.db
+*.egg-info/
+*.egg
+*.whl
+
+# Virtual environment
+venv/
+.env
+
+# VS Code settings
+.vscode/
+
+# Other
+.DS_Store
+.idea/
+*.bak
+*.tmp
+
+# Ignore the backup of requirements.txt if you have it
+requirements.txt.save
