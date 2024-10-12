@@ -28,6 +28,6 @@ venv/
 .idea/
 *.bak
 *.tmp
-
+#
 # Ignore the backup of requirements.txt if you have it
 requirements.txt.save
