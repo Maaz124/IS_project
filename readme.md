@@ -7,6 +7,8 @@ then docker compose up
 
 STEPS TO RUN PROJECT 
 
-1- INSTALL DOCKER CLI I DONT KNOW GUI WALA
-2- RUN 'docker compose build'
+1- INSTALL DOCKER CLI I DONT KNOW GUI WALA  
+
+2- RUN 'docker compose build'  
+
 3- run 'docker compose up'
